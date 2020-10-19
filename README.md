@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Tanushree Shaw</h1>
 <br/>
 <h3 align="left">Undergraduate CSE Student.</h3>
-<h3 align="left">An Avid Learner.</h3>
-<h3 align="left">Under Construction :)</h3>
+
 
 <br/>
 <h3 align="left">Connect with me:</h3>
