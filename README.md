@@ -5,8 +5,8 @@
 <h3 align="left">Under Construction :)</h3>
 
 <br/>
-<h3 align="left">Contact Me:</h3>
-
+<h3 align="left">Contact Me: 👇</h3>
+<br/>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanushree-shaw-438ab4193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tanushree-shaw-438ab4193/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shraddha.keshri.98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/shraddha.keshri.98/" height="30" width="40" /></a>
