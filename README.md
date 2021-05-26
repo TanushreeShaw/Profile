@@ -20,7 +20,7 @@
 <br/>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushreeshaw&show_icons=true&locale=en&layout=compact" alt="tanushreeshaw" margin-left="50%" width="55%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushreeshaw&show_icons=true&locale=en&layout=compact" alt="tanushreeshaw" margin-left="50%" width="58%" />
 </p>
 
 <p align="center">
