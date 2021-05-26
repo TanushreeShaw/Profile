@@ -20,5 +20,9 @@
 <br/>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushreeshaw&show_icons=true&locale=en&layout=compact" alt="tanushreeshaw" margin-left="50%" width="60%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushreeshaw&show_icons=true&locale=en&layout=compact" alt="tanushreeshaw" margin-left="50%" width="51%" />
+</p>
+
+<p align="center">
+  <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TanushreeShaw&theme=light" />
 </p>
