@@ -24,6 +24,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushreeshaw&show_icons=true&locale=en&layout=compact" alt="tanushreeshaw" margin-left="50%" width="58%" />
 </p>
 
+[![Tanushree's github activity graph](https://activity-graph.herokuapp.com/graph?username=TanushreeShaw&theme=xcode)](https://github.com/TanushreeShaw/github-readme-activity-graph)
+
 <p align="center">
   <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TanushreeShaw&theme=light" />
 </p>
