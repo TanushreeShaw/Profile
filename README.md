@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋, I am Tanushree Shaw!</h1>
+<h1 align="left">Hey 👋, I am Tanushree Shaw!</h1>
 <br/>
 <h3 align="left">Under-Graduate. CSE Pre-Final Year Student at BPPIMT.</h3>
 <h3 align="left">An Avid Learner.</h3>
