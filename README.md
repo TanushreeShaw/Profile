@@ -5,7 +5,7 @@
 <h3 align="left">Under Construction :")</h3>
 
 <br/>
-<h3 align="left">Contact Me from here: 👇</h3>
+<h3 align="left">Contact Me : 👇</h3>
 <br/>
 
 <p align="left">
