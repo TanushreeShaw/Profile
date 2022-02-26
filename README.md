@@ -25,7 +25,7 @@
 </p>
 
 ![Tanushree's github activity graph](https://activity-graph.herokuapp.com/graph?username=TanushreeShaw&theme=xcode)
-<!--(https://github.com/TanushreeShaw/github-readme-activity-graph)-->
+<!-- (https://github.com/TanushreeShaw/github-readme-activity-graph) -->
 
 <p align="center">
   <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TanushreeShaw&theme=light" />
